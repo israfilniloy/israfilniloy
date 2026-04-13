@@ -62,58 +62,28 @@
 ---
 
 ### 📊 GitHub Stats
-> 🔄 All stats below update **automatically** every day
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israfilniloy&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=israfilniloy&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=israfilniloy&theme=radical" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israfilniloy&layout=compact&theme=radical&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israfilniloy&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-> 🔄 Updates automatically as you earn more achievements
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=israfilniloy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
----
-
-### 📌 Latest Repositories
-> 🔄 Updates automatically when you create new repos
-
-<p align="center">
-  <a href="https://github.com/israfilniloy/Car-Rental-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=israfilniloy&repo=Car-Rental-Management-System&theme=radical" />
-  </a>
-  <a href="https://github.com/israfilniloy/Event-Booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=israfilniloy&repo=Event-Booking&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/israfilniloy/Air-quality-index-on-citys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=israfilniloy&repo=Air-quality-index-on-citys&theme=radical" />
-  </a>
-  <a href="https://github.com/israfilniloy/StudentPortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=israfilniloy&repo=StudentPortal&theme=radical" />
-  </a>
-</p>
-
----
-
-### ⚡ Recent GitHub Activity
-> 🔄 Updates automatically with your latest commits and contributions
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=israfilniloy&theme=radical&hide_border=true&area=true" width="95%"/>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧬 **CCN — Retinal Dystrophy Variant Classifier** | Cascaded Corrector Network predicting pathogenicity of DNA variants. 92% accuracy on 64,870 ClinVar variants | Python, CatBoost, LightGBM, XGBoost |
+| 🌿 **Jute Anthracnose Early Warning System** | Weather-driven ML system predicting fungal outbreaks 4 days ahead using 543K weather records | Python, XGBoost, LSTM, Keras |
+| 🗺️ **Dhaka Road Accident Hotspot Predictor** | Severity-aware ensemble model identifying high-risk accident locations in Dhaka | Python, SAHE, Random Forest, CatBoost |
+| 🚗 **[Car Rental Management System](https://github.com/israfilniloy/Car-Rental-Management-System)** | Full-featured car rental management desktop app | C# |
+| 🎟️ **[Event Booking System](https://github.com/israfilniloy/Event-Booking)** | Web app for booking and managing events | PHP, MySQL |
+| 🌍 **[Air Quality Index on Cities](https://github.com/israfilniloy/Air-quality-index-on-citys)** | City-wise air quality index visualization | HTML |
+| 🎓 **[Student Portal](https://github.com/israfilniloy/StudentPortal)** | Student management and portal system | C# |
 
 ---
 
